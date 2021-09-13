@@ -3,11 +3,5 @@ Hello world,
 
 this is a project1 data
 
-<<<<<<< HEAD
-checking the reset command
-
-nd push it
-=======
 Note:do not disclose it
->>>>>>> 5c36ba7058deca3729163ce38925a9b60fd022aa
 
